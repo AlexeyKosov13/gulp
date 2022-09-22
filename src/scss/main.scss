@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+    background-color: yellow;
+    font-size: 26px;
+}
+
+img {
+    width: 20px;
+    height: 20px;
+}
+
+@import "second";
+@import 'fonts';
